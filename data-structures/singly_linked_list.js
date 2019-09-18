@@ -71,7 +71,8 @@ class SinglyLinkedList {
         currentNode = currentNode.next;
       }
     }
-  }
+    this.length--;
+  };
 
   removeDuplicates = () => {
     var current = this.head;

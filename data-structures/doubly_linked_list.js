@@ -12,7 +12,6 @@ class DoublyLinkedList {
     this.length = 0;
   };
 
-
   /** 
    * add new node to the end ao the list
    * @param {*} data - new node data
