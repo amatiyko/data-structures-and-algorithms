@@ -1,0 +1,1 @@
+**Constructor** pattern gives a way of defining properties and methods to a specific type of object to give it a consistent behavior.
